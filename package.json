@@ -24,7 +24,7 @@
     "react-spring": "^8.0.27",
     "react-three-fiber": "^4.2.12",
     "styled-components": "^5.1.1",
-    "three": "^0.118.1"
+    "three": "^0.125.0"
   },
   "devDependencies": {
     "gatsby-plugin-root-import": "^2.0.5",
